@@ -1,7 +1,7 @@
 # Cursor: "Homework 08" (Andrey Kiyas)
 ___
 ### Git link(s):
-- [Pull request 01 (HW)](https://github.com/andrey-kiyas/com.CursorHomeWorks08/pull/1)
+- [Pull request 01 (HW)](https://github.com/andrey-kiyas/CursorHomeWorks08/pull/1)
 ___
 ### EN
 1. Create Spring Boot app with Spring data JPA, Spring Web and H2 dependencies
